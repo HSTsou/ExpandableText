@@ -84,7 +84,6 @@ class _ExpandableTextState extends State<ExpandableText> {
                   style: widget.originalTextTextStyle),
               expandableTextSpan,
             ],
-//            recognizer: new TapGestureRecognizer()..onTap = _onExpandTextTap,
           ),
         );
       }

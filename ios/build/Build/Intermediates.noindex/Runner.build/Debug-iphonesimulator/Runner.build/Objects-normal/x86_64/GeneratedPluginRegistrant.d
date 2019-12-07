@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/zouhansheng/Develop/flutter_expand_text_app/ios/Flutter/Flutter.framework/Headers/Flutter.h

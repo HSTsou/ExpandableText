@@ -2,4 +2,4 @@
 # ExpandableText
  a expandable text when tapping text
 
-![](https://github.com/HSTsou/ExpandableText/blob/master/simulator.gif)
+<img src="https://github.com/HSTsou/ExpandableText/blob/master/simulator.gif" width="200" >
